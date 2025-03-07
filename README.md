@@ -1,0 +1,1 @@
+This course helps me learn more about Git and GitHub. I have learned the following things:
